@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpets_vue"]=self["webpackChunkpets_vue"]||[]).push([[681],{1681:function(e,t,r){r.r(t),r.d(t,{default:function(){return a}});var u=function(){var e=this,t=e._self._c;return t("div")},n=[],s={components:{},props:{},data(){return{}},watch:{},computed:{},methods:{},created(){this.$router.replace(this.$route.query.redirect)},mounted(){}},c=s,o=r(1001),p=(0,o.Z)(c,u,n,!1,null,"66f70202",null),a=p.exports}}]);
+//# sourceMappingURL=681.d1c55b76.js.map

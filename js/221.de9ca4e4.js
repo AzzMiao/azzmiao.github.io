@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkpets_vue"]=self["webpackChunkpets_vue"]||[]).push([[221],{2221:function(t,e,n){n.r(e),n.d(e,{default:function(){return c}});var u=function(){var t=this,e=t._self._c;return e("el-empty",{attrs:{description:"我的足迹"}})},s=[],r=(n(7658),{components:{},props:{},data(){return{}},watch:{},computed:{},methods:{toAnimlDetail(t){this.$router.push({path:"/petswiki/wikiInfo/"+t})}},created(){},mounted(){}}),p=r,i=n(1001),o=(0,i.Z)(p,u,s,!1,null,"de17c444",null),c=o.exports}}]);
+//# sourceMappingURL=221.de9ca4e4.js.map
